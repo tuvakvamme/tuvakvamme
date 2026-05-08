@@ -2,8 +2,6 @@
 
 Jeg går andre året på en bachelor i Datateknologi ved Universitetet i Bergen
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tuva-kvamme-aa596b3b0)
-
 ## Språk & teknologier
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=openjdk&logoColor=white)
@@ -18,4 +16,6 @@ Jeg går andre året på en bachelor i Datateknologi ved Universitetet i Bergen
 ## Kontakt
 - 📫 tukva4356@uib.no
 - 📍 Bergen
+- 👩🏼‍💻 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tuva-kvamme-aa596b3b0)
+
 
