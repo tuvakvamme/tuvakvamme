@@ -1,6 +1,6 @@
 ## Hei, jeg er Tuva Kvamme 👋
 
-Jeg går andre året på en bachelor i Datateknologi ved Universitetet i Bergen
+Jeg går tredje året på en bachelor i Datateknologi ved Universitetet i Bergen
 
 ## Språk & teknologier
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
